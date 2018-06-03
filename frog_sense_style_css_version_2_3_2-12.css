@@ -1,0 +1,109 @@
+html {
+  margin: 0;
+  color: #FFF;
+
+}
+
+body.frognt {
+  margin: 0;
+  background-image:url("./images/frogsense_background_image_repeating_x_y_version_tiger_version_tiger_2_2_3_version5_nine.jpg");
+}
+
+body.jim {
+    margin: 0;
+  background-image: url("./images/violeNtIGER.jpg");
+}
+
+body.feedthefrogs {
+    margin: 0;
+  background-image: url("./images/toxictiger.jpg");
+  font-size: 5rem;
+}
+
+.frog_logo_the_big_header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: green;
+  text-shadow: -16px -14px 0px rgba(0, 0, 0, 1);
+  font-size: 5rem;
+  height: 50vh;
+  font-family:"Times New Roman";
+}
+
+.fs {
+  height: 339px;
+  width:1000px;
+  background-image: url("./images/frogsense.png");
+}
+
+.frog_cards_important_desktop_webpage_version_1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40vh;
+}
+
+.frog_cards_important_desktop_footer_for_webpage_version_1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+  text-shadow: 0px 0px 6px rgba(150, 150, 150, 0.85);
+}
+
+.frog_sense_oh_my_stars_video_game_important_logo {
+  background-image: url("./images/frog_sense_logo_design_version_1_point_1.png");
+  width:279px;
+  height:264px;
+}
+
+.frog_sense_jumpy_froggy_froggo_video_game_important_logo {
+  background-image: url("./images/our_credentials_frogsense_20180530222212344_card_desktop_version_final_Final2_final.png");
+  width:279px;
+  height:264px;
+}
+
+.frog_sense_logologologologofroggylogodudeSTOPtouchingme_important_logo {
+  background-image: url("./images/oh_my_stars.png");
+  width:279px;
+  height:264px;
+}
+
+.froig_page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 65vh;
+}
+
+.frog_logo_the_smalla_header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: green;
+  text-shadow: -16px -14px 0px rgba(0, 0, 0, 1);
+  font-size: 5rem;
+  height: 20vh;
+  font-family:"Times New Roman";
+}
+
+.theres_nothing_wrong_with_being_small {
+  height:203px;
+  width:600px;
+  background-image: url("./images/frogsense_otherpages.png");
+}
+
+.froig {
+  width:424px;
+  height:368px;
+  background-image: url("./images/froig.png");
+}
+
+.comming {
+font-family: 'Nanum Pen Script', cursive;
+font-size: 2rem;
+color:#111;
+}
